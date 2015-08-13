@@ -1,6 +1,4 @@
-trekrec
-
-A discovery tool for finding new places and experiences.
+React Router Boilerplate Application with Webpack, Babel, and Express
 
 ##Steps:
  - `npm install`
@@ -11,9 +9,9 @@ A discovery tool for finding new places and experiences.
 
 ###Build for development:
  - `npm run build:dev`
+
+ ###Navigate to server:
+- `nodemon app/server.js` from root directory
  
 ###Build a minified version for production:
  - `npm run build:prod`
-
-###Navigate to server:
-- `nodemon app/server.js` from root directory
