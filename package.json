@@ -1,7 +1,7 @@
 {
-  "name": "trekrec",
+  "name": "react-router-boilerplate",
   "version": "1.0.0",
-  "description": "A discovery tool for finding new places and experiences.",
+  "description": "A boilerplate application for react-router using Webpack, Babel, and Express",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --progress --colors",
